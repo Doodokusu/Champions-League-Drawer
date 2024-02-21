@@ -2,7 +2,7 @@
 It is a Python application that automatically selects the Champions League groups. 
 
 
-It selects the groups by separating them according to the teams' countries and bags. 
+It selects the groups by separating them according to the teams' countries and pots. 
 
 
 It presents the results to the user with a simple interface written in Pygame.
